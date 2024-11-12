@@ -1,0 +1,4 @@
+train: /Users/bilge/Downloads/yolov11/train/images
+val: /Users/bilge/Downloads/yolov11/valid/images
+nc: 3  # Sınıf sayısı
+names: ['Alzheimer', 'CONTROL', 'parkinson']  # Sınıf isimleri
